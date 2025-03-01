@@ -22,7 +22,7 @@ Ensure you have the following installed:
 - Required libraries:
 download command: pip install opencv-python dlib pyautogui speechrecognition pyttsx3 googletrans google-generativeai
 
- Download `shape_predictor_68_face_landmarks.dat` from [dlib models](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) and place it in the project directory.
+ Download `shape_predictor_68_face_landmarks.dat` from [dlib models](data/shape_predictor_68_face_landmarks.dat) and place it in the project directory.
 
 ## Usage
 1. Run `main.py` to start the GUI.
